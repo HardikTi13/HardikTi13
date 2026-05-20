@@ -120,23 +120,11 @@ Full-stack performer booking platform with role-based dashboards, authentication
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HardikTi13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikTi13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
----
-
 # 📊 Contribution Graph
 
 <div align="center">
 
-[![Hardik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HardikTi13&theme=tokyo-night&hide_border=true)](https://github.com/HardikTi13)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HardikTi13&theme=tokyo-night&hide_border=true" />
 
 </div>
 

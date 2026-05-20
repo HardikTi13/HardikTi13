@@ -1,154 +1,178 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hardik%20Tiwari&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hardik%20Tiwari&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=22" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=🤖+Building+AI+%26+ML+Solutions;🌐+Full+Stack+Developer;🧠+RAG+%7C+LLMs+%7C+Multi-Agent+Systems;⚡+Turning+Ideas+into+Intelligent+Products" alt="Typing SVG" />
+# Hi, I'm Hardik Tiwari 👋
 
-<br/>
+🚀 B.Tech AI & ML Student at Polaris School of Technology  
+⚡ Building Production-Grade GenAI Systems & Full-Stack Applications  
+🧠 Focused on RAG Pipelines, AI Agents, Backend Systems & Product Engineering  
 
-<!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-HardikTi13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HardikTi13)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hardik%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+<br>
 
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-HardikTi13-181717?style=for-the-badge&logo=github)](https://github.com/HardikTi13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hardik%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/](https://www.linkedin.com/in/hardik-tiwari-850538312/))
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwariharik131105@gmail.com)
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=HardikTi13&color=6AD3F7&style=for-the-badge&label=PROFILE+VIEWS)
+<br>
 
-</div>
-
----
-
-## 🚀 About Me
-
-```python
-class HardikTiwari:
-    def __init__(self):
-        self.name        = "Hardik Tiwari"
-        self.role        = ["AI/ML Engineer", "Full Stack Developer"]
-        self.languages   = ["Python", "JavaScript", "TypeScript", "SQL"]
-        self.interests   = ["Generative AI", "RAG Systems", "LLMs", "Multi-Agent AI"]
-        self.currently   = "Building intelligent applications with LLMs & RAG"
-        self.looking_for = "Collaborations on AI-powered products"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = HardikTiwari()
-me.say_hi()
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 🧠 AI / ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🌐 Full Stack
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://komarev.com/ghpvc/?username=HardikTi13&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-## ✨ Featured Projects
+# 👨‍💻 About Me
+
+I build AI-powered applications focused on real-world usability, scalability, and performance.
+
+My interests include:
+- GenAI Systems
+- RAG Pipelines
+- AI Agents & LangGraph Workflows
+- Backend Engineering
+- Cloud Deployment
+- Product Development
+
+I enjoy taking products from idea → architecture → deployment.
+
+---
+
+# 🛠 Tech Stack
+
+## 🧠 AI / GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-blue?style=flat-square)
+
+## ⚙ Backend Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-APIs-orange?style=flat-square)
+
+## 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+## ☁ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-green?style=flat-square)
+
+---
+
+# 🚀 Featured Projects
+
+## 📄 Property Document Assistant
+
+AI-powered legal document assistant that simplifies complex property documents using RAG workflows and structured summarization.
+
+### Features
+- Clause extraction
+- Ownership & risk analysis
+- Document summarization
+- Semantic search workflows
+
+### Tech Stack
+`Python` `LangChain` `LangGraph` `FastAPI` `Vector DB` `OpenAI API`
+
+---
+
+## 🛒 AI Commerce Agent Platform
+
+Built an agentic commerce system for intelligent product discovery, recommendations, and order support workflows.
+
+### Features
+- AI recommendation engine
+- Retrieval optimization
+- Multi-step agent workflows
+- Context-aware product support
+
+### Tech Stack
+`Python` `LangGraph` `LangChain` `FAISS` `FastAPI` `Docker`
+
+---
+
+## 🎭 Performly
+
+Full-stack performer booking platform with role-based dashboards, authentication, and payment workflows.
+
+### Features
+- Performer dashboards
+- Booking system
+- Razorpay integration
+- JWT authentication
+- Real-time workflows
+
+### Tech Stack
+`React.js` `Next.js` `Express.js` `MongoDB` `JWT` `Razorpay`
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-| 🔥 Project | 📝 Description | 🛠 Stack |
-|-----------|---------------|---------|
-| **🏠 Property Document AI** | RAG-based AI system that reads, understands & answers queries from property documents using LLMs & vector search | `Python` `LangChain` `RAG` `FastAPI` |
-| **🤖 Chatbot Platform** | Intelligent multi-turn conversational AI with memory and context-aware responses | `Python` `LLMs` `Multi-Agent` |
-| **📊 Performly** | Full-stack performance tracking & analytics platform | `React` `FastAPI` `PostgreSQL` |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HardikTi13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikTi13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardikTi13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikTi13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HardikTi13&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B)
+[![Hardik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HardikTi13&theme=tokyo-night&hide_border=true)](https://github.com/HardikTi13)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌱 Current Focus
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=HardikTi13&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15)
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HardikTi13&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FF6B6B&area=true&hide_border=true)](https://github.com/HardikTi13)
-
-</div>
+- Building production-grade GenAI applications
+- Exploring AI Agent workflows & LangGraph
+- Improving RAG retrieval quality & observability
+- Learning scalable backend architecture
+- Deploying cloud-native AI systems
 
 ---
 
-## 🌱 What I'm Currently Up To
+# 🏆 Achievements & Interests
 
-- 🔭 Building **AI-powered products** with RAG and LLMs
-- 🧠 Exploring **Multi-Agent Systems** and **Agentic AI**
-- 🌐 Creating **Full Stack** web applications powered by AI
-- 📖 Learning advanced **Vector Databases** and **LLM fine-tuning**
+- 🚀 Building AI-powered real-world products
+- 🧠 Strong interest in GenAI Systems & Product Engineering
+- 🏗 Participated in SIH, Google Buildathon, Replit Vibeathon & MLH x Gemini
+- ⚡ Fast execution & rapid prototyping mindset
 
 ---
 
-## 💬 Fun Facts
+# 📫 Connect With Me
 
-- 🤖 I believe every product is better with a little AI magic
-- ☕ Powered by chai and late-night debugging sessions
-- 🧩 I love solving real-world problems with elegant code
-- 🚀 From idea → prototype in record time is my superpower
+- 📧 Email: tiwariharik131105@gmail.com
+- 💼 LinkedIn: https://linkedin.com/
+- 🖥 GitHub: https://github.com/HardikTi13
 
 ---
 
 <div align="center">
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-**✨ "Build things that matter. Ship fast. Learn faster." ✨**
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️%20by%20Hardik%20Tiwari-FF6B6B?style=for-the-badge)
+### ✨ Build things that matter. Ship fast. Learn faster. ✨
 
 </div>

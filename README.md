@@ -152,7 +152,7 @@ Full-stack performer booking platform with role-based dashboards, authentication
 # 📫 Connect With Me
 
 - 📧 Email: tiwariharik131105@gmail.com
-- 💼 LinkedIn: https://linkedin.com/
+- 💼 LinkedIn: linkedin.com/in/hardik-tiwari-850538312/
 - 🖥 GitHub: https://github.com/HardikTi13
 
 ---
